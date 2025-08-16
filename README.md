@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Mohamed Kaif Ansari
 
 Email Me 👉 ✉️ **kaifariz510@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
+2nd year B.TECH Student In Computer Scicence & Engineering.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaifansariw) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kaifansariw1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kaifansariw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaifariz510@gmail.com) 
