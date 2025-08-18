@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Mohamed Kaif Ansari
+# Hi 👋, I'm Mohamed Kaif Ansari
 
 2nd year B.TECH Student In Computer Science & Engineering.
 <br>
