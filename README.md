@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **kaifariz510@gmail.com** For Collaboration/Project or Anyt
 <br>
 <br>
 # 💻 Badges #
-https://badges.parchment.com/public/assertions/QnOBo6ggTleimOCNhGrZGA?identity__email=kaifariz510%40gmail.com
+
 <br>
 [![An image of @kaifansariw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaifansariw)](https://holopin.io/@kaifansariw)
 # 📊 GitHub Stats:
