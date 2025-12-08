@@ -9,12 +9,12 @@
 
 <h1>💫 About Me:</h1>
 
-<p style="centre">👨‍💻 Web Developer | 🌐 Open Source Contributor</p>
-- I am an open-source contributor and Computer Science undergraduate passionate about building scalable systems, modern UI/UX, and high-impact community projects.
-- I have contributed to major programs like Hacktoberfest ’25, Open-Odyssey 2.0 ’25 (Rank 26), GirlScript Summer of Code ’25 (Rank 2043/3400+), and Winter of Code Social ’25.
-- Alongside coding, I have taken leadership roles as Project Admin, Mentor, and Community Manager, guiding contributors, managing repositories, and improving collaboration workflows. 
-- I specialize in JavaScript, PHP, MySQL, UI engineering, performance optimization, and full-stack development, with strong experience across documentation, refactoring, and feature engineering.
-- Driven by innovation and problem-solving, I aim to create meaningful open-source contributions while supporting and mentoring the developer community.
+<h3>👨‍💻 Web Developer | 🌐 Open Source Contributor </h3>
+- I am an open-source contributor and Computer Science undergraduate passionate about building scalable systems, modern UI/UX, and high-impact community projects.<br>
+- I have contributed to major programs like Hacktoberfest ’25, Open-Odyssey 2.0 ’25 (Rank 26), GirlScript Summer of Code ’25 (Rank 2043/3400+), and Winter of Code Social ’25.<br>
+- Alongside coding, I have taken leadership roles as Project Admin, Mentor, and Community Manager, guiding contributors, managing repositories, and improving collaboration workflows. <br>
+- I specialize in JavaScript, PHP, MySQL, UI engineering, performance optimization, and full-stack development, with strong experience across documentation, refactoring, and feature engineering.<br>
+- Driven by innovation and problem-solving, I aim to create meaningful open-source contributions while supporting and mentoring the developer community.<br>
 
 
 </td>
