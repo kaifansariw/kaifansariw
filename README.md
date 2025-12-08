@@ -9,7 +9,7 @@
 
 <h1>💫 About Me:</h1>
 
- Web Developer | Open Source Contributor
+<p style="centre">👨‍💻 Web Developer | 🌐 Open Source Contributor</p>
 - I am an open-source contributor and Computer Science undergraduate passionate about building scalable systems, modern UI/UX, and high-impact community projects.
 - I have contributed to major programs like Hacktoberfest ’25, Open-Odyssey 2.0 ’25 (Rank 26), GirlScript Summer of Code ’25 (Rank 2043/3400+), and Winter of Code Social ’25.
 - Alongside coding, I have taken leadership roles as Project Admin, Mentor, and Community Manager, guiding contributors, managing repositories, and improving collaboration workflows. 
