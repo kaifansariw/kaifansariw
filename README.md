@@ -18,11 +18,11 @@
 
 
 </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer GIF" width="300"/>
+    <!-- <td>
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer GIF" width="300"/> -->
     </td>
 <table
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 📊 GitHub Stats:
 
@@ -51,12 +51,12 @@
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="05f14f97-59a2-46f3-a498-22fee3d48469" data-share-badge-host="https://www.credly.com"></div>
 
-<--
-## 🌐 Socials: 
--->
 
 
-<!-- ## Tech Stack: -->
+
+
+
+ ## Tech Stack: 
 
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -65,41 +65,40 @@
   </a>
 </p> 
 
-
-<!-- - ⚛️ Frameworks & Libraries -->  
+<h3 align="left">⚛️ Frameworks & Libraries </h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,tailwind,typescript" />
   </a>
 </p> 
 
-<!-- - 🗄️ Databases & Storage  -->
+ <h3 align="left">🗄️ Databases & Storage </h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,supabase" />
   </a>
 </p> 
 
-<!-- - ☁️ Cloud & Hosting -->  
+<h3 align="left">☁️ Cloud & Hosting  </h3>
  <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=netlify" />
   </a>
 </p> 
 
-<!-- - 🔧 Dev Tools & Platforms -->  
+<h3 align="left">🔧 Dev Tools & Platforms   </h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,Hoppscotch,postman,vscode,linux,gemini,cursor" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,gemini,cursor" />
   </a>
 </p> 
 
-<!-- - 🎨 Design Tools-->  
+<!-- <h3 align="left"> 🎨 Design Tools </h3>
  <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=canva" />
   </a>
-</p> 
+</p>  -->
 
 
 
