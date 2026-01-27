@@ -1,5 +1,5 @@
+# Hi , I am Mohamed Kaif Ansari
 
-# Hi ,I am Mohamed Kaif Ansari
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG" /></a>
 </div>
@@ -7,7 +7,7 @@
   <tr>
     <td>
 
-<h1>💫 About Me:</h1>
+<h1>💫 About Me </h1>
 
 <h3 style="center">👨‍💻 Web Developer | 🌐 Open Source Contributor </h3>
 - I am an open-source contributor and Computer Science undergraduate passionate about building scalable systems, modern UI/UX, and high-impact community projects.<br>
@@ -36,12 +36,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 📈 Contribution Graph
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaifansariw&theme=react-dark&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## Hacktoberfest'25 
+
 [![An image of @kaifansariw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaifansariw)](https://holopin.io/@kaifansariw)
+
 ## Badges
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="[https://badgr.com/public/assertions/LNxGZSLWQYW8lYpq52w81A"](https://badges.parchment.com/public/assertions/QnOBo6ggTleimOCNhGrZGA?identity__email=kaifariz510%40gmail.com")><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/LNxGZSLWQYW8lYpq52w81A/image"></a></blockquote>
