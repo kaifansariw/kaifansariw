@@ -13,7 +13,7 @@
 - I am an open-source contributor and Computer Science undergraduate passionate about building scalable systems, modern UI/UX, and high-impact community projects.<br>
 - I have contributed to major programs like Hacktoberfest ’25, Open-Odyssey 2.0 ’25 (Rank 26), GirlScript Summer of Code ’25 (Rank 2043/3400+), and Winter of Code Social ’25.<br>
 - Alongside coding, I have taken leadership roles as Project Admin, Mentor, and Community Manager, guiding contributors, managing repositories, and improving collaboration workflows. <br>
-- I specialize in JavaScript, PHP, MySQL, UI engineering, performance optimization, and full-stack development, with strong experience across documentation, refactoring, and feature engineering.<br>
+- I specialize in JavaScript, MySQL, UI engineering, performance optimization, and full-stack development, with strong experience across documentation, refactoring, and feature engineering.<br>
 - Driven by innovation and problem-solving, I aim to create meaningful open-source contributions while supporting and mentoring the developer community.<br>
 
 
@@ -61,14 +61,14 @@
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,php" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js," />
   </a>
 </p> 
 
 <h3 align="left">⚛️ Frameworks & Libraries </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,tailwind,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,tailwind" />
   </a>
 </p> 
 
