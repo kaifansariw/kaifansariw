@@ -45,7 +45,6 @@
 
 [![An image of @kaifansariw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaifansariw)](https://holopin.io/@kaifansariw)
 
-
 ## 🏅 Badges
 
 <div align="center">
@@ -54,28 +53,19 @@
   <img src="https://api.badgr.io/public/assertions/LNxGZSLWQYW8lYpq52w81A/image" width="140"/>
 </a>
 
-<a href="https://www.credly.com/badges/a9c47c51-7156-4921-9d14-cb6911a53fdf/public_url">
-  <img src="https://images.credly.com/size/220x220/images/4e248e82-9e87-4c72-a337-7c7f0f3f8b87/image.png" width="140"/>
-</a>
-
-<a href="https://www.credly.com/badges/05f14f97-59a2-46f3-a498-22fee3d48469/public_url">
-  <img src="https://images.credly.com/size/220x220/images/6cb131d9-fcb9-41a1-b2ea-86b6c3c7b043/image.png" width="140"/>
-</a>
-
 <a href="https://www.credly.com/badges/518b4f82-a1f5-4be4-931c-56bbadb0911a/public_url">
-  <img src="https://images.credly.com/size/220x220/images/1d6e6f5c-2b7f-4dd5-b4e5-df4c4a965221/image.png" width="140"/>
+  <img src="https://images.credly.com/size/220x220/images/49a49220-6d6b-4f32-8f8d-2f0a6dbf0a9d/image.png" width="140"/>
 </a>
 
 <a href="https://www.credly.com/badges/6f8f52d9-eda6-44fc-8515-cba7eed4ea7f/public_url">
-  <img src="https://images.credly.com/size/220x220/images/7b36e3db-6c8f-4f7d-bb5f-22f73c3f6e7f/image.png" width="140"/>
+  <img src="https://images.credly.com/size/220x220/images/6d5f2480-3f28-4f58-b1e2-7e4d5f67c34e/image.png" width="140"/>
 </a>
 
 <a href="https://www.credly.com/badges/f82f9605-a102-45de-944a-389aec2801d7/public_url">
-  <img src="https://images.credly.com/size/220x220/images/8f7d8b89-9c49-4f4e-b417-4c0a6f73f12d/image.png" width="140"/>
+  <img src="https://images.credly.com/size/220x220/images/e1c8f3f0-7a7f-4c9f-bf28-0fbb0e34b8c4/image.png" width="140"/>
 </a>
 
 </div>
-
 
 
  ## Tech Stack: 
