@@ -45,7 +45,6 @@
 
 [![An image of @kaifansariw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaifansariw)](https://holopin.io/@kaifansariw)
 
-## Badges
 
 ## 🏅 Badges
 
