@@ -54,7 +54,11 @@
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="05f14f97-59a2-46f3-a498-22fee3d48469" data-share-badge-host="https://www.credly.com"></div>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="518b4f82-a1f5-4be4-931c-56bbadb0911a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6f8f52d9-eda6-44fc-8515-cba7eed4ea7f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f82f9605-a102-45de-944a-389aec2801d7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
