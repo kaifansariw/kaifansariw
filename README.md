@@ -1,129 +1,121 @@
-# Hi , I am Mohamed Kaif Ansari
+# Hi, I am Mohamed Kaif Ansari 👋
 
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG" /></a>
-</div>
-<table>
-  <tr>
-    <td>
-
-<h1>💫 About Me </h1>
-
-<h3 style="center">👨‍💻 Web Developer | 🌐 Open Source Contributor </h3>
-- I am an open-source contributor and Computer Science undergraduate passionate about building scalable systems, modern UI/UX, and high-impact community projects.<br>
-- I have contributed to major programs like Hacktoberfest ’25, Open-Odyssey 2.0 ’25 (Rank 26), GirlScript Summer of Code ’25 (Rank 2043/3400+), and Winter of Code Social ’25.<br>
-- Alongside coding, I have taken leadership roles as Project Admin, Mentor, and Community Manager, guiding contributors, managing repositories, and improving collaboration workflows. <br>
-- I specialize in JavaScript, MySQL, UI engineering, performance optimization, and full-stack development, with strong experience across documentation, refactoring, and feature engineering.<br>
-- Driven by innovation and problem-solving, I aim to create meaningful open-source contributions while supporting and mentoring the developer community.<br>
-
--Support my open source work
-<iframe src="https://github.com/sponsors/kaifansariw/" title="Sponsor kaifansariw" height="225" width="600" style="border: 0;">
-  Sponsor
-</iframe>
-
-
-</td>
-    <!-- <td>
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer GIF" width="300"/> -->
-    </td>
-<table
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=kaifansariw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaifansariw&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifansariw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- Profile Details Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaifansariw&theme=tokyonight" alt="profile details"/>
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG" />
+  </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+## 💫 About Me
+
+### 👨‍💻 Web Developer | 🌐 Open Source Contributor
+
+- I am an open-source contributor and Computer Science undergraduate passionate about building scalable systems, modern UI/UX, and impactful community projects.
+- I have contributed to Hacktoberfest '25, Open-Odyssey 2.0 '25 (Rank 26), GirlScript Summer of Code '25 (Rank 2043/3400+), and Winter of Code Social '25.
+- I have taken leadership roles as Project Admin, Mentor, and Community Manager, guiding contributors, managing repositories, and improving collaboration workflows.
+- I specialize in JavaScript, MySQL, UI engineering, performance optimization, and full-stack development.
+- I aim to build meaningful open-source projects and support the developer community.
+
+---
+
+## 💖 Support My Open Source Work
+
+If you find my projects helpful, consider sponsoring me! Your support helps me dedicate more time to building open-source projects, improving existing tools, and contributing to the developer community.
+
+<p align="left">
+  <a href="https://github.com/sponsors/kaifansariw">
+    <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F_Sponsor_on_GitHub-Support_My_Work-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Mohamed Kaif Ansari on GitHub" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/sponsors/kaifansariw">💗 Visit my GitHub Sponsors page</a> to learn more about supporting my work.
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaifansariw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaifansariw&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifansariw&theme=tokyonight&hide_border=false&layout=compact)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaifansariw&theme=tokyonight" alt="GitHub profile details" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated divider" />
 
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaifansariw&theme=react-dark&hide_border=true)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated divider" />
 
-## Hacktoberfest'25 
+## 🎃 Hacktoberfest '25
 
-[![An image of @kaifansariw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaifansariw)](https://holopin.io/@kaifansariw)
-
+[![Holopin badges](https://holopin.me/kaifansariw)](https://holopin.io/@kaifansariw)
 
 ## 🏅 Badges
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; align-items:center;">
+<div align="center">
 
 <a href="https://badges.parchment.com/public/assertions/QnOBo6ggTleimOCNhGrZGA?identity__email=kaifariz510%40gmail.com">
-  <img src="https://api.badgr.io/public/assertions/LNxGZSLWQYW8lYpq52w81A/image" width="140"/>
+  <img src="https://api.badgr.io/public/assertions/LNxGZSLWQYW8lYpq52w81A/image" width="140" alt="Achievement badge 1" />
 </a>
 
 <a href="https://www.credly.com/badges/518b4f82-a1f5-4be4-931c-56bbadb0911a/public_url">
-  <img src="https://images.credly.com/images/49a49220-6d6b-4f32-8f8d-2f0a6dbf0a9d/blob" width="140"/>
+  <img src="https://images.credly.com/images/49a49220-6d6b-4f32-8f8d-2f0a6dbf0a9d/blob" width="140" alt="Achievement badge 2" />
 </a>
 
 <a href="https://www.credly.com/badges/6f8f52d9-eda6-44fc-8515-cba7eed4ea7f/public_url">
-  <img src="https://images.credly.com/images/6d5f2480-3f28-4f58-b1e2-7e4d5f67c34e/blob" width="140"/>
+  <img src="https://images.credly.com/images/6d5f2480-3f28-4f58-b1e2-7e4d5f67c34e/blob" width="140" alt="Achievement badge 3" />
 </a>
 
 <a href="https://www.credly.com/badges/f82f9605-a102-45de-944a-389aec2801d7/public_url">
-  <img src="https://images.credly.com/images/e1c8f3f0-7a7f-4c9f-bf28-0fbb0e34b8c4/blob" width="140"/>
+  <img src="https://images.credly.com/images/e1c8f3f0-7a7f-4c9f-bf28-0fbb0e34b8c4/blob" width="140" alt="Achievement badge 4" />
 </a>
 
 </div>
 
+## 🛠️ Tech Stack
 
- ## Tech Stack: 
+### Languages
 
-<h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,js" alt="C++ and JavaScript" />
   </a>
-</p> 
-
-<h3 align="left">⚛️ Frameworks & Libraries </h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,tailwind" />
-  </a>
-</p> 
-
- <h3 align="left">🗄️ Databases & Storage </h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,supabase" />
-  </a>
-</p> 
-
-<h3 align="left">☁️ Cloud & Hosting  </h3>
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify" />
-  </a>
-</p> 
-
-<h3 align="left">🔧 Dev Tools & Platforms   </h3>
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,gemini,cursor" />
-  </a>
-</p> 
-
-<!-- <h3 align="left"> 🎨 Design Tools </h3>
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=canva" />
-  </a>
-
 </p>
 
+### ⚛️ Frameworks & Libraries
 
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,tailwind" alt="HTML, CSS, Node.js, Express, Tailwind CSS" />
+  </a>
+</p>
 
+### 🗄️ Databases & Storage
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL and Supabase" />
+  </a>
+</p>
 
+### ☁️ Cloud & Hosting
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
+  </a>
+</p>
 
+### 🔧 Dev Tools & Platforms
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,gemini,cursor" alt="Git, GitHub, Postman, VS Code, Linux, Gemini, Cursor" />
+  </a>
+</p>
