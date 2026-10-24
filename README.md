@@ -17,9 +17,10 @@
 - Driven by innovation and problem-solving, I aim to create meaningful open-source contributions while supporting and mentoring the developer community.<br>
 
 -Support my open source work
-<p>
-<iframe src="https://github.com/sponsors/kaifansariw/card" title="Sponsor kaifansariw" height="225" width="600" style="border: 0;"></iframe>
-</p>
+<iframe src="https://github.com/sponsors/kaifansariw/" title="Sponsor kaifansariw" height="225" width="600" style="border: 0;">
+  Sponsor
+</iframe>
+
 
 </td>
     <!-- <td>
