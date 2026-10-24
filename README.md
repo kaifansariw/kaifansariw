@@ -1,5 +1,5 @@
 # Hi , I am Mohamed Kaif Ansari
-<iframe src="https://github.com/sponsors/kaifansariw/button" title="Sponsor kaifansariw" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG" /></a>
 </div>
@@ -16,6 +16,10 @@
 - I specialize in JavaScript, MySQL, UI engineering, performance optimization, and full-stack development, with strong experience across documentation, refactoring, and feature engineering.<br>
 - Driven by innovation and problem-solving, I aim to create meaningful open-source contributions while supporting and mentoring the developer community.<br>
 
+-Support my open source work
+<p>
+<iframe src="https://github.com/sponsors/kaifansariw/card" title="Sponsor kaifansariw" height="225" width="600" style="border: 0;"></iframe>
+</p>
 
 </td>
     <!-- <td>
@@ -111,7 +115,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=canva" />
   </a>
-</p>  -->
+
+</p>
+
+
+-->
 
 
 
