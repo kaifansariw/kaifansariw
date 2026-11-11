@@ -6,9 +6,9 @@
   </a>
 </div>
 
-## 💫 About Me
+## About Me
 
-### 👨‍💻 Web Developer | 🌐 Open Source Contributor
+### Web Developer | Open Source Contributor
 
 - I am an open-source contributor and Computer Science undergraduate passionate about building scalable systems, modern UI/UX, and impactful community projects.
 - I have contributed to Hacktoberfest '25, Open-Odyssey 2.0 '25 (Rank 26), GirlScript Summer of Code '25 (Rank 2043/3400+), and Winter of Code Social '25.
@@ -34,7 +34,7 @@ If you find my projects helpful, consider sponsoring me! Your support helps me d
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaifansariw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
@@ -46,13 +46,13 @@ If you find my projects helpful, consider sponsoring me! Your support helps me d
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated divider" />
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaifansariw&theme=react-dark&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated divider" />
 
-## 🎃 Hacktoberfest '25
+## Hacktoberfest '25
 
 [![Holopin badges](https://holopin.me/kaifansariw)](https://holopin.io/@kaifansariw)
 
@@ -78,7 +78,7 @@ If you find my projects helpful, consider sponsoring me! Your support helps me d
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -88,7 +88,7 @@ If you find my projects helpful, consider sponsoring me! Your support helps me d
   </a>
 </p>
 
-### ⚛️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -96,7 +96,7 @@ If you find my projects helpful, consider sponsoring me! Your support helps me d
   </a>
 </p>
 
-### 🗄️ Databases & Storage
+### Databases & Storage
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -104,7 +104,7 @@ If you find my projects helpful, consider sponsoring me! Your support helps me d
   </a>
 </p>
 
-### ☁️ Cloud & Hosting
+### Cloud & Hosting
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -112,7 +112,7 @@ If you find my projects helpful, consider sponsoring me! Your support helps me d
   </a>
 </p>
 
-### 🔧 Dev Tools & Platforms
+### Dev Tools & Platforms
 
 <p align="left">
   <a href="https://skillicons.dev">
